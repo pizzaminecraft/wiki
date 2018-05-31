@@ -22,11 +22,13 @@
 |----------|:-------------:|:-------------:|
 | Nuclearcraft | Unecessary oregen ruins the overworld. | Isa |
 | Pam's Harvestcraft? | I don't think anyone has ever used it, but it might make things easier for other mods. | Isa |
+| dumb cross-mod metals etc in tcon | supremium gulavium unobtanium | capqu |
+| draconic evolution | its balanced because it takes a lot of materi-ahahahahahahah | capqu |
 
 ## New Player Kit
 |  Mod  | Reason | Added By |    
 |----------|:-------------:|:-------------:|
-| Seared Bricks for small smeltery | Tedious to get early game. (add to villages instead, if possible) | Isa |
+| Seared Bricks for small smeltery | Tedious to get early game. | Isa |
 | 16x Apples | Hungry for apples? | Isa |
 
 ## Gripes with ATM3
