@@ -1,5 +1,5 @@
 <!-- TITLE: New Pack -->
-<!-- SUBTITLE: In a couple months when everyones Meinkraft batteries are recharged we're going to assemble a refined pack, please make suggestions below. DO NOT REMOVE ANYTHING. -->
+<!-- SUBTITLE: In a couple months when everyones Meinkraft batteries are recharged we're going to assemble a refined pack, please make suggestions below. DO NOT REMOVE ANYTHING -->
 
 ## Must Have
 |  Mod  | Added By |    
@@ -27,6 +27,7 @@
 |  Mod  | Reason | Added By |    
 |----------|:-------------:|:-------------:|
 | Seared Bricks for small smeltery | Tedious to get early game. | Isa |
+	could just make sure the villages spawn them correctly? think its a config option / capqu
 | 16x Apples | Hungry for apples? | Isa |
 
 ## Gripes with ATM3
