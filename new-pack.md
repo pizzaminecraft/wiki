@@ -26,7 +26,8 @@
 ## New Player Kit
 |  Mod  | Reason | Added By |    
 |----------|:-------------:|:-------------:|
-| Seared Bricks for small smeltery | Tedious to get early game. / could just make sure the villages spawn them correctly? think its a config option / capqu | Isa |
+| Seared Bricks for small smeltery | Tedious to get early game.
+	could just make sure the villages spawn them correctly? think its a config option / capqu | Isa |
 | 16x Apples | Hungry for apples? | Isa |
 
 ## Gripes with ATM3
