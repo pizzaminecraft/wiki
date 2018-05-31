@@ -24,7 +24,7 @@
 | Pam's Harvestcraft? | I don't think anyone has ever used it, but it might make things easier for other mods. | Isa |
 
 ## New Player Kit
-|  Mod  | Reason | Added By |    
+|  Item  | Reason | Added By |    
 |----------|:-------------:|:-------------:|
 | Seared Bricks for small smeltery | Tedious to get early game.
 	could just make sure the villages spawn them correctly? think its a config option / capqu | Isa |
