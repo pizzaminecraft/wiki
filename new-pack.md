@@ -39,3 +39,4 @@
 ## Discussion
 * Could just make sure the villages spawn them[Smeltery] correctly? think its a config option / capqu
 	* Yeah, that works. -Isa
+* Re: Draconic Evolution: Check how hard it is to make things in ATM3, even the chest requires a shitload of fuck. I'm not sure it actually isn't imbalanced in hardmode. Theo and Don aren't using it even though they considered it because it's so gay to even make the chest, but then again, if it is that tedious in hardmode then maybe it's not worth adding. - Isa
