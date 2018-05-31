@@ -27,7 +27,7 @@
 |  Mod  | Reason | Added By |    
 |----------|:-------------:|:-------------:|
 | Seared Bricks for small smeltery | Tedious to get early game. | Isa |
-	could just make sure the villages spawn them correctly? think its a config option / capqu
+|	could just make sure the villages spawn them correctly? think its a config option / capqu |
 | 16x Apples | Hungry for apples? | Isa |
 
 ## Gripes with ATM3
