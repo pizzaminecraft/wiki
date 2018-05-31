@@ -21,4 +21,6 @@
 | 16x Apples | Hungry for apples? | Isa |
 
 ## Gripes with ATM3
-Too many mods
+* Too many mods. -Don
+* Make yellorium spawn (reduced?) -Isa
+	This is how you would respond, with a tab.
