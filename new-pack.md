@@ -7,7 +7,15 @@
 | AE2 | Isa |
 | Buildcraft | Isa |
 | Enderio | Isa |
+| Compact Machines| Isa |
+| Blood Magic | Isa |
+| Blood Arsenal | Isa |
+| Thaumcraft | Isa |
+| Thaumcraft QoL | Isa |
+| RFTools (all) | Isa |
 | Thermal (all) | Isa |
+| Immserive Engineering | Isa |
+
 
 ## Must NOT Have
 |  Mod  | Reason | Added By |    
