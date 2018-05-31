@@ -24,13 +24,16 @@
 | Pam's Harvestcraft? | I don't think anyone has ever used it, but it might make things easier for other mods. | Isa |
 
 ## New Player Kit
-|  Item  | Reason | Added By |    
+|  Mod  | Reason | Added By |    
 |----------|:-------------:|:-------------:|
-| Seared Bricks for small smeltery | Tedious to get early game.
-	could just make sure the villages spawn them correctly? think its a config option / capqu | Isa |
+| Seared Bricks for small smeltery | Tedious to get early game. | Isa |
 | 16x Apples | Hungry for apples? | Isa |
 
 ## Gripes with ATM3
 * Too many mods. -Don
 * Make yellorium spawn (reduced?) -Isa
 	* This is how you would respond, with a tab. -You
+
+## Discussion
+* Could just make sure the villages spawn them[Smeltery] correctly? think its a config option / capqu
+	* Yeah, that works. -Isa
