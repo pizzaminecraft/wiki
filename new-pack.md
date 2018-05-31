@@ -1,5 +1,5 @@
 <!-- TITLE: New Pack -->
-<!-- SUBTITLE: In a couple months when everyones Meinkraft batteries are recharged we're going to assemble a refined pack, please make suggestions below. -->
+<!-- SUBTITLE: In a couple months when everyones Meinkraft batteries are recharged we're going to assemble a refined pack, please make suggestions below. DO NOT REMOVE ANYTHING -->
 
 ## Must Have
 |  Mod  | Added By |    
