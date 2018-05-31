@@ -21,4 +21,4 @@
 | 16x Apples | Hungry for apples? | Isa |
 
 ## Gripes with ATM3
-| Too many mods |
+Too many mods
