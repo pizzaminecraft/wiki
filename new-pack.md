@@ -13,6 +13,7 @@
 |  Mod  | Reason | Added By |    
 |----------|:-------------:|:-------------:|
 | Nuclearcraft | Unecessary oregen ruins the overworld. | Isa |
+| Pam's Harvestcraft? | I don't think anyone has ever used it, but it might make things easier for other mods. | Isa |
 
 ## New Player Kit
 |  Mod  | Reason | Added By |    
