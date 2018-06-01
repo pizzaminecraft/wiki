@@ -15,7 +15,7 @@
 | RFTools (all) | Isa |
 | Thermal (all) | Isa |
 | Immserive Engineering | Isa |
-| industrial foregoing | capqu |
+| Industrial Foregoing | capqu |
 
 
 ## Must NOT Have
@@ -23,7 +23,9 @@
 |----------|:-------------:|:-------------:|
 | Nuclearcraft | Unecessary oregen ruins the overworld. | Isa |
 | Pam's Harvestcraft? | I don't think anyone has ever used it, but it might make things easier for other mods. | Isa |
-| dumb cross-mod metals etc in tcon | supremium gulavium unobtanium plastic mekanism (almost all of them are stupidly overpowered) | capqu |
+| Dumb cross-mod metals etc in tcon | supremium gulavium† unobtanium† plastic mekanism (almost all of them are stupidly overpowered) | capqu |
+
+† Please specify.
 
 ## New Player Kit
 |  Mod  | Reason | Added By |    
