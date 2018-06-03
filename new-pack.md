@@ -20,7 +20,7 @@
 | Journey Map | Isa |
 | Forestry | Isa |
 | Gendustry | Isa |
-
+| Solar Flux Reborn | Isa |
 
 ## Must NOT Have
 |  Mod  | Reason | Added By |    
