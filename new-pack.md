@@ -16,6 +16,8 @@
 | Thermal (all) | Isa |
 | Immserive Engineering | Isa |
 | Industrial Foregoing | capqu |
+| Iron Chests | Isa |
+| Journey Map | Isa |
 
 
 ## Must NOT Have
