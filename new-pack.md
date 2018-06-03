@@ -18,6 +18,8 @@
 | Industrial Foregoing | capqu |
 | Iron Chests | Isa |
 | Journey Map | Isa |
+| Forestry | Isa |
+| Gendustry | Isa |
 
 
 ## Must NOT Have
